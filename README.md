@@ -24,3 +24,5 @@ NIM Jurusan : 13523125
 Jurusan : Teknik Informatika - Jatinangor
 Klan : A
 Email : 19623156@std.stei.itb.ac.id / 19623156@mahasiswa.itb.ac.id
+
+Hasil akhir : file:///C:/cobacoba%20web/Hands-On%20Sparta.html
