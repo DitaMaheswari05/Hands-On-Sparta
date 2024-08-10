@@ -9,7 +9,7 @@ Di sini saya hanya memakai VS Code sebagai editor source code dan menggunakan ht
 
 3. Cara menjalankan program
 - Buat Website: Gunakan HTML, CSS, dan JavaScript untuk membuat website.
-- Akses website melalui browser
+- Akses website melalui file lokal dan pilih open with browser
 
 4. Bonus yang dikerjakan
 Parsial, sedikit menghias website dengan bantuan CSS
@@ -25,4 +25,4 @@ Jurusan : Teknik Informatika - Jatinangor
 Klan : A
 Email : 19623156@std.stei.itb.ac.id / 19623156@mahasiswa.itb.ac.id
 
-Hasil akhir : file:///C:/cobacoba%20web/Hands-On%20Sparta.html
+Hasil akhir (visualisasi) : buka file 2024-08-10 (9).png
